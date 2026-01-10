@@ -1,5 +1,9 @@
 # 📦 Repository Move Notice
 
+## FED-SKaiNET
+
+Federated-learning capability are implemented under [FED-SKaiNET](https://github.com/FED-SKaiNET)
+
 ## sk-ai-net → **SKaiNET-developers**
 
 The **sk-ai-net** GitHub organization has been **moved to `SKaiNET-developers`** to better reflect and serve its target audience: developers, contributors, and integrators working with SKaiNET projects.
